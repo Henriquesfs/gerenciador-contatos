@@ -21,7 +21,23 @@ Um projeto simples em Java para gerenciar contatos, utilizando PostgreSQL como b
 - **Maven**: Gerenciador de dependências e build do projeto.
 
 ---
+## 📂 Estrutura do Projeto
 
+```
+GerenciadorContatos
+│── src/
+│   ├── main/java/com/crud/
+│   │   ├── Contato.java          # Classe modelo
+│   │   ├── ContatoDAO.java       # Operações de CRUD
+│   │   ├── DatabaseConnection.java  # Conexão com PostgreSQL
+│   │   ├── Main.java             # Menu interativo do sistema
+│   ├── main/resources/sql/
+│   │   ├── schema.sql            # Script para criar a tabela no banco
+│── .gitignore
+│── pom.xml
+│── README.md
+```
+---
 ## Pré-requisitos
 
 Antes de executar o projeto, certifique-se de ter instalado:
