@@ -69,7 +69,6 @@ Clone o repositório
 
 ```
 https://github.com/Henriquesfs/gerenciador-contatos.git
-
 ```
 Siga as instruções do console para interagir com o gerenciador de contatos.
 
@@ -88,14 +87,12 @@ Insira uma ação:
 ```
 ---
 
-## Ajustes e Melhorias
+## 🚀 Ajustes e Melhorias
+O projeto está em desenvolvimento e contará com as seguintes melhorias futuras:
 
-O projeto ainda está em desenvolvimento com a finalidade de implementar esses recursos
-
-1. Adicionar validações de dados do usuário
-2. Permitir pesquisas avançadas de contatos pelo nome ou qualquer outro tipo de atributo
-3. Aprimorar a listagem de contatos, permitindo a ordenação por nome
-
+Validação de dados → Garantir a integridade e segurança das informações do usuário.
+Pesquisa avançada → Permitir buscas por nome ou outros atributos para facilitar a localização dos contatos.
+Ordenação de contatos → Aprimorar a listagem com opções de ordenação por nome e outros critérios.
 ---
 📜 Licença
 
