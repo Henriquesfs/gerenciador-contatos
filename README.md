@@ -69,7 +69,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 Clone o repositório
 
 ```
-git clone https://github.com/henrique-sfs/gerenciador-contatos.git
+https://github.com/Henriquesfs/gerenciador-contatos.git
 
 ```
 Siga as instruções do console para interagir com o gerenciador de contatos.
@@ -79,8 +79,8 @@ Siga as instruções do console para interagir com o gerenciador de contatos.
 
 Exemplo de menu no terminal:
 
-Insira uma ação:
 ```
+Insira uma ação:
 [1] Adicionar Contato
 [2] Listar Contatos
 [3] Alterar Contato
