@@ -91,8 +91,11 @@ Insira uma ação:
 O projeto está em desenvolvimento e contará com as seguintes melhorias futuras:
 
 Validação de dados → Garantir a integridade e segurança das informações do usuário.
+
 Pesquisa avançada → Permitir buscas por nome ou outros atributos para facilitar a localização dos contatos.
+
 Ordenação de contatos → Aprimorar a listagem com opções de ordenação por nome e outros critérios.
+
 ---
 📜 Licença
 
