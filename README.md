@@ -15,10 +15,10 @@ Projeto em Java de gerenciamento de contatos, permitindo realizar operações b�
 
 ## Tecnologias Utilizadas
 
-- **Java**: Linguagem de programação principal.
-- **PostgreSQL**: Banco de dados relacional para armazenamento dos contatos.
-- **JDBC**: Para conexão e execução de operações no banco de dados.
-- **Maven**: Gerenciador de dependências e build do projeto.
+- **Java**
+- **PostgreSQL**
+- **JDBC**
+- **Maven**
 
 ---
 ## 📂 Estrutura do Projeto
@@ -59,8 +59,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
     id SERIAL PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
     telefone VARCHAR(20) NOT NULL,
-    email VARCHAR(100) NOT NULL
-);
+    email VARCHAR(100) NOT NULL);
 3. Configure as credenciais do banco de dados(db_url,db_user,db_password)
 
 ---
@@ -87,6 +86,16 @@ Insira uma ação:
 [4] Excluir Contato
 [5] Sair
 ```
+---
+
+## Ajustes e Melhorias
+
+O projeto ainda está em desenvolvimento com a finalidade de implementar esses recursos
+
+1. Adicionar validações de dados do usuário
+2. Permitir pesquisas avançadas de contatos pelo nome ou qualquer outro tipo de atributo
+3. Aprimorar a listagem de contatos, permitindo a ordenação por nome
+
 ---
 📜 Licença
 
